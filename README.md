@@ -1,5 +1,6 @@
 # tareacurso1semana2
-/*Tarea iOS Curso 1 Semana 2.
+/*
+Tarea iOS Curso 1 Semana 2.
 
 GEnerar una serie de números del cero al 100 con el 100 incluído e imprimirlos según las siguientes condiciones :
 
@@ -12,11 +13,11 @@ Gracias por calificar.
 PD : Los números los imprime una vez para que se logre una visualización más ordenada.
 */
 
-import UIKit
+    import UIKit
 
-var numero = 1...100
+    var numero = 1...100
 
-for resultado in numero {
+    for resultado in numero {
     
     /* Variables para imprimir todo en la misma línea
      de número */
